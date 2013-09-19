@@ -21,18 +21,18 @@ External Links:
   Bower: "http://bower.io/"
 ---
 
-Most Ember demos show all of the JavaScript and HTML in one file. This is convinient for demo purposes but that's not how real applications are written. When writing large applications, you need a tight workflow that's well integrated with your toolset to make sure that you make the most the time that you spend writing code. You could try to develop this workflow, which could take months or you could start your project with *Ember App Kit*.
+Most Ember demos show all of the JavaScript and HTML in one file. This is convinient for demo purposes but that's not how real applications are written. When writing large applications, you need a tight workflow that's well integrated with your toolset to make sure that you make the most of the time that you spend writing code. You could try to develop this workflow on your own, which could take months, or you could start your project with *Ember App Kit*.
 
 *Ember App Kit* is a well integrated toolset that you can use as a foundation for your project. Out of the box, *Ember App Kit* includes *Grunt* - task runner, *JSHint* - linter, *QUnit* - testing framework, *Karma* - test runner, *ECMAScript 6* modules and *Bower* - client side package manager. 
 
-Development of *Ember App Kit* is lead by *[Stefan Penner](https://github.com/stefanpenner)* and recently received blessings from the Ember Core Team. Its being positioned as the default Ember project layout and might eventually grow into an executable for creating and managing Ember projects.
+Development of *Ember App Kit* is led by *[Stefan Penner](https://github.com/stefanpenner)* and recently received blessings from the Ember Core Team. It's being positioned as the default Ember project layout and might eventually grow into an executable for creating and managing Ember projects.
 
-Like many things with Ember, Ember App Kit is under active development and continues to grow and improve. You can watch the [Ember App Kit on GitHub](https://github.com/stefanpenner/ember-app-kit) to stay up to date on its developments and learn about evolution of the Ember project toolset.
+Like many things with Ember, Ember App Kit is under active development and continues to grow and improve. You can watch the [Ember App Kit on GitHub](https://github.com/stefanpenner/ember-app-kit) to stay up to date on its developments and learn about the evolution of the Ember project toolset.
 
 <span id="installation"></span>
 ### Installation
 
-At the momement, there is no *easy* way to install *Ember App Kit*. The best that I found is to clone the *Ember App Kit* repository to your machine and clone from your local repo whenever you're ready to start a new project. 
+At the momement, there is no *easy* way to install *Ember App Kit*. The best that I've found is to clone the *Ember App Kit* repository to your machine and clone from your local repo whenever you're ready to start a new project. 
 
 Here is how that might look on Mac OS X:
 
